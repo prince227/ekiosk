@@ -1,0 +1,44 @@
+#navbar{
+    background-color:  #00111a;
+}
+
+#navbar a {
+    color: white;
+}
+
+.jumbotron{
+    background: url(/images/jumboimg.jpg);
+    background-repeat: repeat-x;
+    background-position-y: 80%;
+}
+
+.jumbotron .container{
+    color: white;
+}
+
+.card{
+    margin: 6px;
+    float: left;
+}
+.buy{
+    text-decoration-style: none;
+}
+
+#footer{
+    background-color: #00111a;
+    margin-bottom: 0;
+}
+
+#form{
+    background: url(/images/loginimage.jpg);
+    text-align: center;
+    padding: 20px;
+    min-height: 380px;
+    background-repeat: no-repeat;
+
+}
+
+#form input{
+    width: 50%;
+    margin-left: 25%;  
+}
